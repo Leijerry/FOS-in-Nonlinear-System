@@ -1,1 +1,1 @@
-# FOS-in-Nonlinear-System
+Fast Orthogonal Search Method (FOS) is used to create estimated function of the random nonlinear original function. I test three nonlinear systems. Since the best estimation is needed to be found out, I adjust different parameters and add different levels’ noise. The systems have been subjected to noise percentages of 0%, 25%, 50%, 100% individually.
